@@ -98,8 +98,7 @@ function loadPart(suffix, dataPart) {
             </div>
             <div class="mt-3 text-sm text-gray-400">
                 <strong>Tamaño Muestral:</strong> N = ${dataPart.datos.length}
-                <span class="mx-2">|</span>
-                <strong>Nivel de Confianza:</strong> ${100 - parseInt(dataPart.alpha)}% (α = ${dataPart.alpha})
+                ${dataPart.alpha ? `<span class="mx-2">|</span><strong>Nivel de Confianza:</strong> ${100 - parseInt(dataPart.alpha)}% (α = ${dataPart.alpha})` : ''}
                 ${dataPart.m ? `<span class="mx-2">|</span><strong>Subintervalos (m):</strong> ${dataPart.m}` : ''}
             </div>
         </div>
