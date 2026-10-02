@@ -50,7 +50,8 @@
                 "Z0": "7e58c9787dc035b8e2aeccb308ed1a5ebcea67ca4b649820a01e4ffc57408b37",
                 "Z_crit": "6350c2eac9284e87d7fcb38045873457b69fe794bc81eb99dd7ae7c8e00e1c6c",
                 "conclusion": "08266ad623869ee1c1c4fb3e5210368cfe42cd779846e27590b09c6d22fb6cbb"
-            }
+            },
+            "alpha": "5%"
         },
         "ejB": {
             "tipo": "uni_chi2",
@@ -110,7 +111,9 @@
                 "chi2_0": "1c70060a267e40ea695a65d6b14bd0ac33159b3bb963213fbda354686e77b42d",
                 "chi2_crit": "9926947d6796e25da00b332fbb1ed920db1a24f81a792b5972df1237957f0001",
                 "conclusion": "eec6af81fe38f48dbc179ce8c95f1a4924cafdc63373564229e376455ae57b4a"
-            }
+            },
+            "alpha": "5%",
+            "m": 5
         }
     },
     "asignacion_2": {
@@ -156,7 +159,8 @@
                 "chi2_inf": "0a9f5dd502c516da25e78b20dd2efb3fe5af6aefb347ecc2c0a8166826811e49",
                 "chi2_sup": "14e8fd011265564110b353c7c17839a864090293637188ee3e2c2bc36681976e",
                 "conclusion": "406d3b99ee800ea02a3a720b04619df98a2a2f453722fca2da53e1dd9b8e5f85"
-            }
+            },
+            "alpha": "5%"
         },
         "ejB": {
             "tipo": "uni_ks",
@@ -188,7 +192,8 @@
                 "D": "f608a27d0c2d36be3340f5a6ac55e602c26cb7fad731846eb580a07e53766c51",
                 "D_crit": "951c35515dde0d6d29df6dedc78d30dd0d1c72ea7292083c900986b880c369e0",
                 "conclusion": "217d0ae5b4778ebce96d4b415c2e611d48e21de9b449001f578ab5c95e2ba86f"
-            }
+            },
+            "alpha": "10%"
         }
     },
     "asignacion_3": {
@@ -252,7 +257,8 @@
                 "Z0": "48cd2aad7a34d9fffce3b67c2e54fba0456d712d7e71ee42d535f8659bf5324f",
                 "Z_crit": "65bcb1e71fef059fe1c6470c91637e0ae9870908cab383d0561e432a1c4f65f7",
                 "conclusion": "53f52a1eb2f8e4d767ca8fc0cb1f7c55ba5a853a0837050497c1eefbdc2d0a08"
-            }
+            },
+            "alpha": "1%"
         },
         "ejB": {
             "tipo": "varianza",
@@ -296,7 +302,8 @@
                 "chi2_inf": "145a1da9695029c31043f5f0993325bd884dd5e50e75689ba6008bb2f6fc3bef",
                 "chi2_sup": "d3919b6cd66776a693056e6e643ce7e73e63173bb77bad30e535819e9a944697",
                 "conclusion": "e512115dcc69510f45bed43dedc59f1d41f9f8674535ac2c1f2d76a35766ca54"
-            }
+            },
+            "alpha": "10%"
         }
     },
     "asignacion_4": {
@@ -409,7 +416,9 @@
                 "chi2_0": "03391cd4bc0a6df201e2dad456397b0b0c1bf0b8e876367f7280c9866fd69b14",
                 "chi2_crit": "1187f434147537ee6e548c4752001a58e2c10763be1bf4719b5dd399393f1481",
                 "conclusion": "053c21f918899ea06df5738a68e29ba988865990e6003f87c0c7dd80cb6adfcb"
-            }
+            },
+            "alpha": "1%",
+            "m": 10
         },
         "ejB": {
             "tipo": "media",
@@ -455,7 +464,8 @@
                 "Z0": "5f8392f79bb4076fedfd5228ceff0af203b178a575b41f6027f69afec9ecc36a",
                 "Z_crit": "6f70992655021647f7caa33a2c8637ef1f4e96477b2e8729358cffbd485c01f6",
                 "conclusion": "af2b877a19996dae7150534445098c2168e05b47dc54a35b6cab250ac233a8e8"
-            }
+            },
+            "alpha": "5%"
         }
     },
     "asignacion_5": {
@@ -495,7 +505,8 @@
                 "D": "281b9157afe27956a8b57544a196b442244eb502103c58e55bebfbb2a80171d9",
                 "D_crit": "1f5dfe235b470d69ad4c142837ab50d552e45b62bcf1076152e3f78cee6753d8",
                 "conclusion": "8a3600a35edd58e668e7e451606c4a7b4676935af2f9a9babd8f4215e4ac7bb9"
-            }
+            },
+            "alpha": "5%"
         },
         "ejB": {
             "tipo": "varianza",
@@ -528,7 +539,8 @@
                 "chi2_inf": "c8176c275e81e81a64f8b1054846b673715781d5b7cff0d69826dedd159583b7",
                 "chi2_sup": "feb4afab120e6985c78debd662756cec8396c38c704aeffad763c6f3248f0f0d",
                 "conclusion": "0829b3effc28d0e9888d429ee54e5d77ce9f979b5e4b9ef41d91a86180082749"
-            }
+            },
+            "alpha": "5%"
         }
     },
     "asignacion_6": {
@@ -602,7 +614,8 @@
                 "Z0": "e77f8f62709aa8d0c701d75374bf9009d767bba230547cd4b99cd3e2933193ef",
                 "Z_crit": "977fe6aebaa559f960354b3a732cd5ed5febd34a8c31a1a1148394efd7e61877",
                 "conclusion": "8f9ae7ecec686562f7b561357729ef5d4cdeeb32e0576ce983d38f47e73cfe6a"
-            }
+            },
+            "alpha": "5%"
         },
         "ejB": {
             "tipo": "uni_ks",
@@ -629,7 +642,8 @@
                 "D": "f70376005b88b2037f594a89bed304fdc89ada8e374223147a5d77b3c524d18d",
                 "D_crit": "c97839e3f952438e013728b9640f130b6cf3d389236e9552793252fed0883dcf",
                 "conclusion": "d4c89c15a42f2e194160b49426805491a717ee79beb85247cbbf1c6fbee2014c"
-            }
+            },
+            "alpha": "10%"
         }
     },
     "asignacion_7": {
@@ -685,7 +699,8 @@
                 "chi2_inf": "73b274f83c3bee2b8af8dbf7cf771cd85dd71b01771e4ac4549065eca27d37c7",
                 "chi2_sup": "a760b6b75a4c70d7e1319e7a4a6ceeb7c093b9476bcdab745bdbc4a347e5696f",
                 "conclusion": "808e0b0c008e540daa7fadc2fe50e1fde2b3eb2460cc8cda642981b242f8cf8b"
-            }
+            },
+            "alpha": "5%"
         },
         "ejB": {
             "tipo": "uni_chi2",
@@ -735,7 +750,9 @@
                 "chi2_0": "b9c40cb30448ab23b2564b732fda3371418947774ecec28663a261ee4e40110a",
                 "chi2_crit": "869409163393d708c4fd10e3e346d8edf1a94504ced719fd70faf2ba6f2e7d0a",
                 "conclusion": "52b7b420f541789ce909e15c21450e08ccb1942b1002db729776fe5bffaa8bd4"
-            }
+            },
+            "alpha": "5%",
+            "m": 8
         }
     }
 }
