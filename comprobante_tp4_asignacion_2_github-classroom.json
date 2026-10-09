@@ -1,0 +1,23 @@
+{
+    "legajo": "github-classroom",
+    "asignacion": "asignacion_2",
+    "timestamp": "2026-10-09T07:26:43.669Z",
+    "respuestas": {
+        "ejA": {
+            "media": "0.5057",
+            "varianza": "0.0154",
+            "chi2_0": "5.3440",
+            "chi2_inf": "16.0470",
+            "chi2_sup": "45.7220",
+            "conclusion": "RECHAZA"
+        },
+        "ejB": {
+            "D_plus": "0.2018",
+            "D_minus": "0.0258",
+            "D": "0.2018",
+            "D_crit": "0.2647",
+            "conclusion": "ACEPTA"
+        }
+    },
+    "firma": "716a1e4bae5db8288dfcee7a7081884a5031e2ed9b57a067632a5ccad3550e79"
+}
