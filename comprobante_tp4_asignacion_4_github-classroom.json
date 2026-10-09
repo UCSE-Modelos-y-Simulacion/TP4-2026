@@ -1,0 +1,19 @@
+{
+    "legajo": "github-classroom",
+    "asignacion": "asignacion_4",
+    "timestamp": "2026-10-08T03:58:04.829Z",
+    "respuestas": {
+        "ejA": {
+            "chi2_0": "47.0000",
+            "chi2_crit": "21.6660",
+            "conclusion": "RECHAZA"
+        },
+        "ejB": {
+            "media": "0.5057",
+            "Z0": "0.1168",
+            "Z_crit": "1.9600",
+            "conclusion": "ACEPTA"
+        }
+    },
+    "firma": "f4807f33b046c6cdb3299688f5bb62024b7bbb047a2cb8d501377adc33d9b316"
+}
